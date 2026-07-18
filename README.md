@@ -3,14 +3,16 @@ FileManager Based on FileZilla but in .PHP!
 
 # How To Use
 
-You can change the address of your password. (must be .php) password: any, a place where it is less accessible (It should not be before the main folder, but the one where they are like this. normal)
+You can change the address of your password. (must be .php) password: any, a place where it is less accessible (It should not be before the main folder, but the one where they are like this. normal) 
 
 `$cfg = __DIR__ . '/younewfile.php'`
 
-needs 
-`<?php
-$password = "yourpersonalpassword";
-?>`
+## Dude
+
+If your server supports this, that's better. If it's a GDPS or something else, just change the dir for the password.
+
+with a new file named need
+`<?php $password = "yourpersonalpassword"; ?>`
 
 # PHP
 
@@ -20,11 +22,9 @@ $password = "yourpersonalpassword";
 * - PHP 7+
 * - session_start()
 * - ZipArchive (optional for extracting zip files)
-*
+
 You can change the title and name.
 
-'in the archive is on Spanish but That is for other Guides..
-but you can change the idiome Texts
 🤨
 ![1000192112](https://github.com/user-attachments/assets/abc0a0c5-c3ff-4e33-a455-504f690f8d7d)
 ![1000192108](https://github.com/user-attachments/assets/4d379e33-5b4a-4bb3-8540-26688850fcaa)
