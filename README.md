@@ -29,5 +29,3 @@ You can change the title and name.
 ![1000192112](https://github.com/user-attachments/assets/abc0a0c5-c3ff-4e33-a455-504f690f8d7d)
 ![1000192108](https://github.com/user-attachments/assets/4d379e33-5b4a-4bb3-8540-26688850fcaa)
 ![1000192106](https://github.com/user-attachments/assets/79dca4b2-d911-4cf4-9668-0e05de9ae769)
-
-[YT](http://youtube.com/post/Ugkxl7Az5o3yYcL4LFeNaxYWvJWwXGPiohxZ?si=FZnzjy59d0sb1xxh)
